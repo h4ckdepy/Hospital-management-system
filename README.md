@@ -19,6 +19,6 @@
 
 Eclispe打开后导入自行配置环境,数据库在/src/c3p0-config.xml 下修改链接地址和密码
 
-同时在挂号信息管理(register)的jsp界面中没有做多表查询,用的是jstl标签做docker数据表查询。
+同时在挂号信息管理(register)的jsp界面中没有做多表查询,用的是jstl标签做doctor数据表查询。
 
 在/WebContent/register/那些界面头部做数据库链接地址与密码修改,然后运行即可。
